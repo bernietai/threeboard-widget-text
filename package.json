@@ -1,0 +1,24 @@
+{
+  "name": "threeboard-text",
+  "version": "1.0.0",
+  "description": "A text widget for Threeboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernietai/threeboard-widget-text.git"
+  },
+  "keywords": [
+    "threeboard",
+    "widget",
+    "text"
+  ],
+  "author": "Bernard Tai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernietai/threeboard-widget-text/issues"
+  },
+  "homepage": "https://github.com/bernietai/threeboard-widget-text#readme"
+}
