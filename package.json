@@ -1,5 +1,5 @@
 {
-  "name": "threeboard-text",
+  "name": "threeboard-contrib-widget-text",
   "version": "1.0.0",
   "description": "A text widget for Threeboard",
   "main": "index.js",
